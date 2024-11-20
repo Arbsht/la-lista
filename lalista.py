@@ -5,3 +5,6 @@ def AggiungiLista (nome):
 
 def VisualizzaLista():
     print(lista)
+
+def RimuoviElemento(indice):
+    lista.pop(indice)
